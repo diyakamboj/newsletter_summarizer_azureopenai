@@ -1,4 +1,4 @@
-# Newsltter Summarizer 📧🧠  
+# Newsletter Summarizer 📧🧠  
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Gmail API](https://img.shields.io/badge/Gmail%20API-Enabled-green)
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-orange)
@@ -6,13 +6,13 @@
 
 ## Overview
 
-**Newsltter Summarizer** is an AI-powered tool that automates the process of reading, understanding, and summarizing newsletters. With the increasing flood of emails, it can be challenging to stay updated without wasting hours scanning through content. This tool solves the problem by:
+**Newsletter Summarizer** is an AI-powered tool that automates the process of reading, understanding, and summarizing newsletters. With the increasing flood of emails, it can be challenging to stay updated without wasting hours scanning through content. This tool solves the problem by:
 
 - Fetching unread emails from predefined newsletter senders.
 - Using AzureOpenAI's GPT-4 model to generate concise and meaningful summaries.
 - Sending these summaries to your inbox or other preferred channels.
 
-With **Newsltter Summarizer**, you can:
+With **Newsletter Summarizer**, you can:
 - Save time and improve productivity.
 - Stay updated without feeling overwhelmed.
 - Access summaries from multiple newsletters in one concise email.
