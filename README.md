@@ -32,6 +32,7 @@ cd newsletter_summarizer_azureopenai
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
+```
 
 ### Step 2: Google Cloud Setup
 1. Go to [Google Cloud Console](https://console.cloud.google.com)
